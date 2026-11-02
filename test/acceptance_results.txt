@@ -1,0 +1,13 @@
+[PASS] book built: 2 images (2)
+[PASS] PDF pages = title + 2x(coloring + key) (5)
+[PASS] PDF is 612x792pt 
+[PASS] recount clean: landscape.png ([])
+[PASS] counts sum to grid & key covers exactly used numbers: landscape.png (1452 cells, 16 colors)
+[PASS] recount clean: pattern.png ([])
+[PASS] counts sum to grid & key covers exactly used numbers: pattern.png (1936 cells, 16 colors)
+[PASS] raw recount: quantized cell total equals page grid total (1452)
+[PASS] recount flags exactly the corrupted page (['1 cells differ on recount'])
+[PASS] recount clean again after restore 
+[PASS] deterministic quantization 
+
+11/11 PASS
